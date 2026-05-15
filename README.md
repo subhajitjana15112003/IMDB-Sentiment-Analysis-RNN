@@ -51,7 +51,7 @@ This project performs sentiment analysis on IMDB movie reviews using Natural Lan
 ### 4. Evaluation
 - Accuracy calculation on test data
 
-## Model Architecture
+### Model Architecture
 
 Input Layer → RNN Layer → Fully Connected Layer → Sigmoid Activation
 
